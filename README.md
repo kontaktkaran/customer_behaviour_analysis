@@ -1,6 +1,6 @@
 **# customer_behaviour_analysis**
 
-**Summery**
+*Summery*
 
 Analysis of customer purchase behavior across categories, demographics, and segments. This project includes Python notebooks for data validation, SQL scripts for deriving business insights, and an interactive Power BI dashboard to visualize revenue drivers, discount effectiveness, product performance, and customer segmentation.
 
@@ -32,9 +32,9 @@ dashboardScreenshots.png- Power BI dashboard Screenshots
 09_customer_segmentation.sql — new, returning, loyal customer segmentation.
 
 10_top_products_per_category.sql — top 3 products within each category.
-
-*****Business problems solved*****
-
+**------------------------------------**
+***Business problems solved*
+**---------------------------------------**
 Top revenue categories — which categories contribute most to revenue.
 
 Helps prioritize inventory and marketing ROI.

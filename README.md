@@ -35,54 +35,54 @@ dashboardScreenshots.png- Power BI dashboard Screenshots
 
 
 **------------------------------------**
-***Business problems solved*
+*Business problems solved*
 **---------------------------------------**
 
-Top revenue categories — which categories contribute most to revenue.
+* Top revenue categories — which categories contribute most to revenue.
 
 Helps prioritize inventory and marketing ROI.
 
-Discount effectiveness — do discounts increase purchase value or reduce profit.
+* Discount effectiveness — do discounts increase purchase value or reduce profit.
 
 Guides pricing and promotion strategy.
 
-Gender revenue contribution — male vs female spending patterns.
+* Gender revenue contribution — male vs female spending patterns.
 
 Enables targeted campaigns and personalization.
 
-High‑spending discount users — premium customers who use discounts but spend above average.
+* High‑spending discount users — premium customers who use discounts but spend above average.
 
 Supports loyalty and retention programs.
 
-Product ratings — top/bottom products by customer satisfaction.
+* Product ratings — top/bottom products by customer satisfaction.
 
 Promotes high performers, improves low‑rated products.
 
-Shipping type impact — standard vs express shipping on average spend.
+* Shipping type impact — standard vs express shipping on average spend.
 
 Optimizes shipping pricing and adoption.
 
-Subscription analysis — revenue and average spend by subscribers vs non‑subscribers.
+* Subscription analysis — revenue and average spend by subscribers vs non‑subscribers.
 
 Validates subscription model and CLV.
 
-Discount‑driven products — items overly dependent on discounts.
+* Discount‑driven products — items overly dependent on discounts.
 
 Helps optimize pricing and reduce margin loss.
 
-Customer segmentation — new, returning, loyal customers.
+* Customer segmentation — new, returning, loyal customers.
 
 Enables personalized marketing and retention strategies.
 
-Top products per category — top 3 most purchased products in each category.
+* Top products per category — top 3 most purchased products in each category.
 
 Improves product placement and recommendations.
 
-Loyalty vs subscription — repeat buyers and their subscription adoption.
+* Loyalty vs subscription — repeat buyers and their subscription adoption.
 
 Improves subscription targeting.
 
-Age group revenue — contribution by age segments.
+* Age group revenue — contribution by age segments.
 
 Enhances age‑based targeting and marketing efficiency.
 

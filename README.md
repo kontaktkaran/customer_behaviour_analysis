@@ -33,6 +33,10 @@ dashboardScreenshots.png- Power BI dashboard Screenshots
 
 10_top_products_per_category.sql — top 3 products within each category.
 
+11_loyalty_vs_subscription.sql — repeat buyers vs subscription adoption.
+
+12_age_group_revenue.sql — revenue contribution by age group.
+
 
 **------------------------------------**
 *Business problems solved*
@@ -92,6 +96,4 @@ Enhances age‑based targeting and marketing efficiency.
 
 
 
-11_loyalty_vs_subscription.sql — repeat buyers vs subscription adoption.
 
-12_age_group_revenue.sql — revenue contribution by age group.

@@ -32,9 +32,12 @@ dashboardScreenshots.png- Power BI dashboard Screenshots
 09_customer_segmentation.sql — new, returning, loyal customer segmentation.
 
 10_top_products_per_category.sql — top 3 products within each category.
+
+
 **------------------------------------**
 ***Business problems solved*
 **---------------------------------------**
+
 Top revenue categories — which categories contribute most to revenue.
 
 Helps prioritize inventory and marketing ROI.

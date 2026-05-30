@@ -247,8 +247,8 @@ select
     when age between 18 and 25 then '18-25'
     when age between 26 and 35 then '26-35'
     when age between 36 and 50 then '36-50'
-    when age between 51 and 65 then '51-65'
-    else '65+'
+
+    else '51+'
     end as age_group,
     round(sum(purchase_amount),2) as Total_revenue
    from customer_behaviour_analysis
@@ -256,8 +256,8 @@ select
     when age between 18 and 25 then '18-25'
     when age between 26 and 35 then '26-35'
     when age between 36 and 50 then '36-50'
-    when age between 51 and 65 then '51-65'
-    else '65+'
+ 
+    else '51+'
     end )
     order by age_group desc
 --? Business Problem :- No visibility into which age group contributes most to revenue.
